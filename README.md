@@ -1,4 +1,4 @@
-## Pedro Lima
+# Pedro Lima
 Olá, meu nome é Pedro Lima. Atualmente, estou cursando Sistemas para Internet na graduação e, paralelamente, estou fazendo o curso técnico em Desenvolvimento de Sistemas. Meu objetivo é me tornar um Desenvolvedor Front-end e estou comprometido em aprimorar minhas habilidades e conhecimentos nessa área.
 
 ## Conecte-se comigo
