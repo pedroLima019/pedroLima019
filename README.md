@@ -17,9 +17,11 @@ Olá, meu nome é Pedro Lima. Atualmente, estou cursando Sistemas para Internet 
 
 ## GitHub Status
 
-<div align="center">  
+<div align="left">  
   <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=pedroLima019&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Lima github stats" />     <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLima019&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+
 
 
 
