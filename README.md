@@ -1,5 +1,5 @@
 
-<h1> I'm Pedro Henrique Lima</h1>
+<h1> Hi, I am Pedro Lima</h1>
 
 - 👨🏽‍🎓 Graduando em Sistemas para Internet
 - 👨🏽‍💻 Front-end Developer
@@ -13,8 +13,8 @@
 
 ## Status: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroLima019" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroLima019&layout=compact&langs_count=8&card_width=320" />
 </a>
