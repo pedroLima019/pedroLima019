@@ -1,7 +1,7 @@
 
 <h1> Hi, I am Pedro Lima</h1>
 
-- 👨🏽‍🎓 Graduando em Sistemas para Internet
+- 👨🏽‍🎓 Graduating in Internet Systems
 - 👨🏽‍💻 Front-end Developer
 
 ## Stacks: 
