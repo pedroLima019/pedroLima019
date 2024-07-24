@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">👨🏽‍🎓 Graduating in Internet Systems<br> 👨🏽‍💻 Front - end Developer</h6>
+<h4 align="left">👨🏽‍🎓 Graduating in Internet Systems<br> 👨🏽‍💻 Front - end Developer</h4>
 
 ###
 
