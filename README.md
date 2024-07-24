@@ -1,4 +1,4 @@
-<h1 align="left">Hi , i am Pedro Lima 👋🏽</h1>
+<h1 align="left">Hi , I am Pedro Lima 👋🏽</h1>
 
 ###
 
