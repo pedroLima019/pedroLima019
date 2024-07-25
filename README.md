@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">👨🏽‍🎓 Graduating in Internet Systems<br> 👨🏽‍💻 Front - end Developer</h4>
+<h4 align="left">👨🏽‍🎓 Graduando em Sistemas para Internet<br> 👨🏽‍💻 Front - end Developer</h4>
 
 ###
 
-<h2 align="center">Studying technologies</h2>
+<h2 align="center">Estudando essas tecnologias</h2>
 
 ###
 
