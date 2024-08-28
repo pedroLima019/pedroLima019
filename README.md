@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">✌🏽I am from São Paulo Brazil</h3>
+<h3 align="left">✌🏽I am from São Paulo, Brazil</h3>
 
 ###
 
