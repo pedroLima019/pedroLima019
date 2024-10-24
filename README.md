@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">✌🏽I am from São Paulo, Brazil</h3>
+<h3 align="left">✌🏽I am from Brazil</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Graduating Information Systems<br>👨🏽‍💻 Front - end Developer</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Graduating Information Systems<br>👨🏽‍💻 Full Stack Developer</p>
 
 ###
 
