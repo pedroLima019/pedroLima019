@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Graduating Information Systems<br>👨🏽‍💻 Full Stack Developer</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Graduating Information Systems<br>👨🏽‍💻 Front-end Developer</p>
 
 ###
 
