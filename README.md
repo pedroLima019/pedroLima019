@@ -2,10 +2,6 @@
 
 ###
 
-<h3 align="left">✌🏽I am from Brazil</h3>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
