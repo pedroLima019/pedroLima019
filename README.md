@@ -18,7 +18,6 @@
     🎓 Estudante de <strong>Sistemas de Informação</strong> &nbsp;|&nbsp;
     🚀 Estagiário <strong>Front-end Developer</strong>
   </p>
-  <p>Apaixonado por construir interfaces modernas, escaláveis e com ótima experiência de usuário.</p>
 </div>
 
 ---
