@@ -34,7 +34,6 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -42,11 +41,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroLima019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-
-</div>
 
 <div align="center">
 
@@ -54,6 +48,9 @@
   &nbsp;
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroLima019&theme=tokyonight&hide_border=true&background=0d1117" />
 
+</div>
+ <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedroLima019&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
