@@ -2,11 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Pedro%20Lima&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
 </div>
 <div align="center">
-  <h3>💻 Software Developer Full Stack</h3>
-  <p>
-    🎓 Estudante de <strong>Sistemas de Informação</strong> &nbsp;|&nbsp;
-    🚀 Estagiário <strong>Front-end Developer</strong>
-  </p>
+  <h3>💻 Software Developer </h3>
 </div>
 
 
