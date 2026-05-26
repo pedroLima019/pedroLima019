@@ -2,8 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Pedro%20Lima&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
 </div>
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLima019&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
