@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <h1>Software Developer</h1>
+   <h1>👨🏽‍💻 Software Developer | Full-Stack</h1>
 </div>
 
 <div align="center">
