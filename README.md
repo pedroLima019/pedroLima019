@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+   <h1>Software Developer</h1>
+</div>
+
+<div align="center">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLima019&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   &nbsp;
